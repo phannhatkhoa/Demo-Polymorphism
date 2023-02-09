@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\bin\Debug\net6.0\Animals.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\bin\Debug\net6.0\Animals.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\bin\Debug\net6.0\Animals.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Polymorphism\Demo\Animals\obj\Debug\net6.0\ref\Animals.dll
